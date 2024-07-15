@@ -1,2 +1,2 @@
-# umc_baejoon_algorithm
+# UMC study_ baejoon algorithm
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
